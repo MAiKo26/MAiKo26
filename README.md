@@ -1,8 +1,23 @@
+<p align="center">
+
 ### Hi there 👋
 
+- I'm a Software Engineer from Tunisia
+- I'm currently working in ZETA Engineering
+  
+  
+  
+  
+|  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-maiko26.vercel.app/api/top-langs/?username=MAiKo26&layout=compact&theme=buefy&hide_border=true" /> </a> |
+| ------------- | 
 
-| <img align="center" src="https://github-readme-stats-maiko26.vercel.app/api?username=MAiKo26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats-maiko26.vercel.app/api/top-langs/?username=MAiKo26&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+</p>
+
+
+
+
+
+
 
 <!--
 **MAiKo26/MAiKo26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
