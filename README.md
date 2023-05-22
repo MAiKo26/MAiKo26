@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - I'm a Software Engineer from Tunisia
-- I'm currently working in ZETA Engineering
+- I'm currently doing a Masters in Computer Science and Electronics
   
   
   
