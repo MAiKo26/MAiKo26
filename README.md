@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- I'm a Software Engineer from Tunisia
+- I'm a Software Developer from Tunisia
 - I'm currently doing a Masters in Computer Science and Electronics
   
   
