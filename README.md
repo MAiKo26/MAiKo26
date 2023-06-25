@@ -8,7 +8,7 @@
   
   
   
-|  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-maiko26.vercel.app/api/top-langs/?username=MAiKo26&langs_count=20&layout=compact&theme=buefy&hide_border=true" /> </a> |
+|  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="github-readme-stats-244h-maiko26.vercel.app/api/top-langs/?username=MAiKo26&langs_count=20&layout=compact&theme=buefy&hide_border=true" /> </a> |
 | ------------- | 
   
 
