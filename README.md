@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - I'm a Software Developer from Tunisia
-- I'm currently doing a Masters in Computer Science and Electronics
+- I finished my Masters' Degree in Computer Science and Electronics in 2023.
   
   
   
