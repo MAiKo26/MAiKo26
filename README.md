@@ -1,10 +1,7 @@
 <p align="center">
 
-### Hi there 👋
+### Hi there, I'm a Software Developer from Tunisia   👋
 
-- I'm a Software Developer from Tunisia
-- I finished my Masters' Degree in Computer Science and Electronics in 2023.
-  
   
   
   
