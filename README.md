@@ -1,16 +1,25 @@
-<p align="center">
 
-### Hi there, I'm a Software Developer from Tunisia   👋
+### Hi there, I'm a Software Developer from Tunisia  👋
 
   
   
   
 |  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-244h-maiko26.vercel.app/api/top-langs/?username=MAiKo26&langs_count=20&layout=compact&theme=buefy&hide_border=true" /> </a> |
 | ------------- | 
+
+
+
+| Category       | Technologies                                         |
+| -------------- | ---------------------------------------------------- |
+| :computer: **Front-end Dev**   |  ![My Skills](https://skillicons.dev/icons?i=nextjs,react,angular,bootstrap,sass) |
+| :gear: **Back-end Dev**    |  ![My Skills](https://skillicons.dev/icons?i=spring,express,django)          |
+| :iphone: **Mobile Dev** | ![My Skills](https://skillicons.dev/icons?i=java,react)      |
+| :desktop_computer: **Desktop Dev**|  ![My Skills](https://skillicons.dev/icons?i=dotnet)               |
+| :floppy_disk: **Database Systems**   | ![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,firebase,mongodb)   |
+| :wrench: **Other Tools**      |  ![My Skills](https://skillicons.dev/icons?i=git,raspberrypi,latex,docker)   |
+
   
 
-
-</p>
 
 
 
