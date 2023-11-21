@@ -9,7 +9,7 @@
 
 
 
-| Category       | Technologies                                         |
+|        | Technologies                                         |
 | -------------- | ---------------------------------------------------- |
 | :computer: **Front-end Dev**   |  ![My Skills](https://skillicons.dev/icons?i=nextjs,react,angular,bootstrap,sass) |
 | :gear: **Back-end Dev**    |  ![My Skills](https://skillicons.dev/icons?i=spring,express,django)          |
