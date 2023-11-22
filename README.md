@@ -14,8 +14,7 @@
 | :computer: **Front-end Dev**   |  ![My Skills](https://skillicons.dev/icons?i=nextjs,react,angular,bootstrap,sass) |
 | :gear: **Back-end Dev**    |  ![My Skills](https://skillicons.dev/icons?i=spring,express,django)          |
 | :iphone: **Mobile Dev** | ![My Skills](https://skillicons.dev/icons?i=java,react)      |
-| :desktop_computer: **Desktop Dev**|  ![My Skills](https://skillicons.dev/icons?i=dotnet)               |
-| :floppy_disk: **Database Systems**   | ![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,firebase,mongodb)   |
+| :floppy_disk: **Database Systems**   | ![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,firebase,sqlite,mongodb)   |
 | :wrench: **Other Tools**      |  ![My Skills](https://skillicons.dev/icons?i=git,raspberrypi,latex,docker)   |
 
   
