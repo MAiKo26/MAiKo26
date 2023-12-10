@@ -11,11 +11,11 @@
 
 |        | Technologies                                         |
 | -------------- | ---------------------------------------------------- |
-| :computer: **Front-end Dev**   |  ![My Skills](https://skillicons.dev/icons?i=nextjs,react,angular,bootstrap,sass) |
-| :gear: **Back-end Dev**    |  ![My Skills](https://skillicons.dev/icons?i=nextjs,express,django,spring)          |
-| :iphone: **Mobile Dev** | ![My Skills](https://skillicons.dev/icons?i=java,react)      |
-| :floppy_disk: **Database Systems**   | ![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,firebase,sqlite,mongodb)   |
-| :wrench: **Other Tools**      |  ![My Skills](https://skillicons.dev/icons?i=git,raspberrypi,latex,docker)   |
+| :computer: **Front-end Dev**   | <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" />  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" />  <img src="https://skillicons.dev/icons?i=sass" alt="SCSS" title="SCSS" />    |
+| :gear: **Back-end Dev**    |  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" />   <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" />  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" />       |
+| :iphone: **Mobile Dev** |  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" title="Android" />  <img src="https://skillicons.dev/icons?i=react" alt="React Native" title="React Native" />    |
+| :floppy_disk: **Database Systems**   |  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" />   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" />  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />  |
+
 
   
 
