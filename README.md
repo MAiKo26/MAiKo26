@@ -1,11 +1,12 @@
 
-### Hi there, I'm a Software Engineer from Tunisia  👋
+### Hi there, I'm a Software Developer from Tunisia  👋
 
   
   
   
-|  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-maiko26.vercel.app/api/top-langs/?username=MAiKo26&langs_count=12&layout=compact&theme=transparent&hide_border=true" /> </a> |
-| ------------- | 
+|  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-maiko26.vercel.app/api/top-langs/?username=MAiKo26&langs_count=12&layout=compact&theme=transparent&hide_border=true" /> </a> |![Anurag's GitHub stats](https://github-readme-stats-maiko26.vercel.app/api?username=MAiKo26&show_icons=true&theme=transparent&hide_rank=true)|
+| ------------- | ------------- | 
+
 
 
 
