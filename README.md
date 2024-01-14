@@ -1,22 +1,22 @@
 
-### Hi there, I'm a Software Developer from Tunisia  👋
+## Hi there, I'm a Mohamed Aziz  👋
 
-  
+<img align="right" alt="Most Used Language" width="350"  src="https://github-readme-stats-maiko26.vercel.app/api/top-langs/?username=MAiKo26&langs_count=10&layout=compact&theme=transparent&hide_border=true" />
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-maiko26.vercel.app/api/top-langs/?username=MAiKo26&langs_count=12&layout=compact&theme=transparent&hide_border=true" /></a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://github-readme-stats-maiko26.vercel.app/api?username=MAiKo26&show_icons=true&theme=transparent&hide_rank=true"/>
+<p align="left"> <a href="twitter.com/MAiKo1419" target="blank"><img src="https://img.shields.io/twitter/follow/MAiKo1419?logo=twitter&style=for-the-badge" alt="MAiKo1419"  </p>
 
-</p>
 
+
+
+- 👨‍💻 I am a Software Developer.
+- 🚀 I’m currently working on Next.js and Wordpress projects at Zeta Engineering.
+- 🌍 I'm based in Tunisia.
+- 🌱 I’m currently learning Astro.
+- 🔭 You can see all my projects in my [personal portfolio.]()
+- 📫 Contact me at contact.mohamedazizkaroui@gmail.com
 
 <br/>
 <br/>
-
-
-
-
-
-
 
 |        | Technologies                                         |
 | -------------- | ---------------------------------------------------- |
