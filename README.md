@@ -3,8 +3,7 @@
 
 <img align="right" alt="Most Used Language" width="350"  src="https://github-readme-stats-maiko26.vercel.app/api/top-langs/?username=MAiKo26&langs_count=10&layout=compact&theme=transparent&hide_border=true" />
 
-<p align="left"> <a href="twitter.com/MAiKo1419" target="blank"><img src="https://img.shields.io/twitter/follow/MAiKo1419?logo=twitter&style=for-the-badge" alt="MAiKo1419"  </p>
-
+<p align="left"> <a href="https://www.twitter.com/MAiKo1419" target="blank"><img src="https://img.shields.io/twitter/follow/MAiKo1419?logo=twitter&style=for-the-badge" alt="MAiKo1419"/></a>  </p>
 
 
 
