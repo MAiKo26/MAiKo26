@@ -11,7 +11,7 @@
 - 🚀 I’m currently working on Next.js and Wordpress projects at Zeta Engineering.
 - 🌍 I'm based in Tunisia.
 - 🌱 I’m currently learning Astro.
-- 🔭 You can see all my projects in my [personal portfolio.]()
+- 🔭 You can see all my projects in my personal portfolio.(soon)
 - 📫 Contact me at contact.mohamedazizkaroui@gmail.com
 
 <br/>
