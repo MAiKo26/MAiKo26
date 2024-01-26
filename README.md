@@ -1,7 +1,7 @@
 
 ## Hi there, I'm a Mohamed Aziz  👋
 
-<img align="right" alt="Most Used Language" width="350"  src="https://github-readme-stats-maiko26.vercel.app/api/top-langs/?username=MAiKo26&langs_count=10&hide=css,scss,html&layout=compact&theme=transparent&hide_border=true" />
+<img align="right" alt="Most Used Language" width="350"  src="https://github-readme-stats-maiko26.vercel.app/api/top-langs/?username=MAiKo26&langs_count=8&hide=css,scss,html,tex&layout=compact&theme=transparent&hide_border=true" />
 
 <br/>
 <br/>
