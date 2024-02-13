@@ -10,7 +10,7 @@
 - 👨‍💻 I am a Software Developer.
 - 🚀 I’m currently working on Next.js and Wordpress projects at Zeta Engineering.
 - 🌍 I'm based in Tunisia.
-- 🌱 I’m currently learning Astro.
+- 🌱 I’m currently learning Go and Astro.
 - 🔭 You can see all my [professional projects in my portfolio](https://portfolio-maiko26.vercel.app).
 - 📫 Contact me at contact.mohamedazizkaroui@gmail.com
 
@@ -21,7 +21,7 @@
 | -------------- | ---------------------------------------------------- |
 | :computer: **Front-end Dev**   | <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /> <img src="https://skillicons.dev/icons?i=astro" alt="Astro" title="Astro" />  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" />  |
 | 🎨 **UI Tools**   | <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" title="Tailwind" />   <img src="https://skillicons.dev/icons?i=sass" alt="SCSS" title="SCSS" />  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" />     |
-| :gear: **Back-end Dev**    |  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js (Next's server actions/APIs and Express' APIs)" title="Node.js (Next's server actions/APIs and Express' APIs)" />   <img src="https://skillicons.dev/icons?i=spring" alt="Java (Spring Boot)" title="Java (Spring Boot)" /> <!---  <img src="https://skillicons.dev/icons?i=go" height="50" alt="Go" title="Go" />    -->  <img src="https://skillicons.dev/icons?i=dotnet" alt="C# (ASP.NET Core)" title="C# (ASP.NET Core)" />     |
+| :gear: **Back-end Dev**    |  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js (Next's server actions/APIs and Express' APIs)" title="Node.js (Next's server actions/APIs and Express' APIs)" />   <img src="https://skillicons.dev/icons?i=spring" alt="Java (Spring Boot)" title="Java (Spring Boot)" /> <img src="https://skillicons.dev/icons?i=dotnet" alt="C# (ASP.NET Core)" title="C# (ASP.NET Core)" /> <img src="https://skillicons.dev/icons?i=go" height="50" alt="Go" title="Go" />    |
 | :iphone: **Mobile Dev** |  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" title="Android" />  <img src="https://skillicons.dev/icons?i=react" alt="React Native" title="React Native" />    |
 | :floppy_disk: **Database**   |  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" />   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" />  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />  |
 
