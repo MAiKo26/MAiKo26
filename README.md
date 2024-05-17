@@ -10,7 +10,6 @@
 - 👨‍💻 I am a Software Developer.
 - 🚀 I’m currently working on Next.js and Wordpress projects at Zeta Engineering.
 - 🌍 I'm based in Tunisia.
-- 🌱 I’m currently learning Go.
 - 🔭 You can see all my [professional projects in my portfolio](https://portfolio-maiko26.vercel.app).
 - 📫 Contact me at contact.mohamedazizkaroui@gmail.com
 
