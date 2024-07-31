@@ -7,7 +7,7 @@
 <br/>
 
 
-- 👨‍💻 I am a Software Developer.
+- 👨‍💻 I am a Software Engineer.
 - 🚀 I’m currently working on Next.js and Wordpress projects at Zeta Engineering.
 - 🌍 I'm based in Tunisia.
 - 🔭 You can see all my [professional projects in my portfolio](https://portfolio-maiko26.vercel.app).
