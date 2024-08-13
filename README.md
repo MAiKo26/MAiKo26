@@ -8,7 +8,7 @@
 
 
 - 👨‍💻 I am a Software Engineer.
-- 🚀 I’m currently working on Next.js and Wordpress projects at Zeta Engineering.
+- 🚀 I’m currently working on Next.js and Wordpress projects at Sybernetys.
 - 🌍 I'm based in Tunisia.
 - 🔭 You can see all my [professional projects in my portfolio](https://portfolio-maiko26.vercel.app).
 - 📫 Contact me at contact.mohamedazizkaroui@gmail.com
