@@ -10,7 +10,7 @@
 - 👨‍💻 I am a Software Engineer.
 - 🚀 I’m currently working on Next.js and Wordpress projects at Sybernetys.
 - 🌍 I'm based in Tunisia.
-- 🔭 You can see all my [professional projects in my portfolio](https://maiko26.github.io/portfolio/).
+- 🔭 You can see all my [professional projects in my portfolio](https://www.maiko26.tn/).
 - 📫 Contact me at contact.mohamedazizkaroui@gmail.com
 
 <br/>
