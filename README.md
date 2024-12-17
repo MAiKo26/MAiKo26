@@ -1,7 +1,7 @@
 
 ## Hi there, I'm a Mohamed Aziz  👋
 
-<img align="right" alt="Most Used Language" width="350"  src="https://github-readme-stats-maiko26.vercel.app/api/top-langs/?username=MAiKo26&langs_count=10&hide=css,scss,html,tex,matlab&layout=compact&theme=transparent&hide_border=true" />
+<img align="right" alt="Most Used Language" width="350"  src="https://github-readme-stats-maiko26.vercel.app/api/top-langs/?username=MAiKo26&langs_count=10&layout=compact&theme=transparent&hide_border=true" />
 
 <br/>
 <br/>
@@ -18,7 +18,7 @@
 
 |        | Technologies                                         |
 | -------------- | ---------------------------------------------------- |
-| :computer: **Front-end**   | <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /> <img src="https://skillicons.dev/icons?i=astro" alt="Astro" title="Astro" />  <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" title="wordpress" /> <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" /> <!-- <img src="https://github.com/onemarc/tech-icons/blob/main/icons/htmx-light.svg" width="50" alt="HTMX" title="HTMX" /> --> |
+| :computer: **Front-end**   | <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /> <img src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" />  <img src="https://skillicons.dev/icons?i=astro" alt="Astro" title="Astro" />  <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" title="wordpress" /> <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" /> <!-- <img src="https://github.com/onemarc/tech-icons/blob/main/icons/htmx-light.svg" width="50" alt="HTMX" title="HTMX" /> --> |
 | :gear: **Back-end**    |  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js (Next's server actions/APIs and Express' APIs)" title="Node.js (Next's server actions/APIs and Express' APIs)" />   <img src="https://skillicons.dev/icons?i=spring" alt="Java (Spring Boot)" title="Java (Spring Boot)" /> <img src="https://skillicons.dev/icons?i=dotnet" alt="C# (ASP.NET Core)" title="C# (ASP.NET Core)" /> <!-- <img src="https://skillicons.dev/icons?i=go" height="50" alt="Go" title="Go" /> -->   |
 | 🎨 **UI Tools**   | <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" title="Tailwind" />   <img src="https://skillicons.dev/icons?i=sass" alt="SCSS" title="SCSS" />  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" />  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/shadcnui.svg" width="50" alt="shadcnui" title="shadcnui" />   |
 
