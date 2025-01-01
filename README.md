@@ -1,5 +1,5 @@
 
-## Hi there, I'm a Mohamed Aziz  👋
+## Hi there, I'm Mohamed Aziz  👋
 
 <img align="right" alt="Most Used Language" width="350"  src="https://github-readme-stats-maiko26.vercel.app/api/top-langs/?username=MAiKo26&langs_count=10&layout=compact&theme=transparent&hide_border=true" />
 
@@ -10,7 +10,7 @@
 - 👨‍💻 I am a Software Engineer.
 - 🚀 I’m currently working on Next.js and Wordpress projects at Sybernetys.
 - 🌍 I'm based in Tunisia.
-- 🔭 You can see all my [professional projects in my portfolio](https://portfolio.maiko26.tn/) and [my personal Blog where I talk about various topics I'm interested in](https://blog.maiko26.tn).
+- 🔭 You can see all [projects I worked on in my portfolio](https://portfolio.maiko26.tn/) and [my personal Blog where I talk about various topics I'm interested in](https://blog.maiko26.tn).
 - 📫 Contact me at contact.mohamedazizkaroui@gmail.com
 
 <br/>
