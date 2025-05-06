@@ -8,7 +8,7 @@
 
 
 - 👨‍💻 I am a Software Engineer.
-- 🚀 I’m currently working on Next.js and Wordpress projects at Sybernetys.
+- 🚀 I’m currently working on Next.js, FastAPI and AI projects at Noble Mind.
 - 🌍 I'm based in Tunisia.
 - 🔭 You can see all [projects I worked on in my portfolio](https://portfolio.maiko26.tn/) and [my personal Blog where I talk about various topics I'm interested in](https://blog.maiko26.tn).
 - 📫 Contact me at contact.mohamedazizkaroui@gmail.com
